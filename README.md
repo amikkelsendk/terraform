@@ -1,1 +1,1 @@
-# terraform-simple-vm
+# terraform scripts and code
