@@ -1,3 +1,3 @@
 # terraform scripts and code
 
-Mostly used for deploying ESXi on vSphere.
+Mostly used for deploying VMs and configuring VMware infrastructure
